@@ -4,3 +4,8 @@ DC comics
 Batman
 superman
 Hulk
+Spiderman
+Thor
+Antman
+Flash
+Wolverine
