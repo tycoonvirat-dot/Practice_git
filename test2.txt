@@ -1,0 +1,4 @@
+practice git
+aws
+devops
+kubernet
